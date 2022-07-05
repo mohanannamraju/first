@@ -1,1 +1,3 @@
 Checking the ssh keys is working or not
+password less 
+ssh key is working file
